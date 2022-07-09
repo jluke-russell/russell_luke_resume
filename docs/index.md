@@ -20,7 +20,7 @@ __Thomas S Wootton High School__, Rockville, MD
 
 - 3.6 GPA
 
-`Expected 2024`
+`Expected December 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 GPA
@@ -30,7 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `2022 - Present`
 __Data Analyst__, Rexburg, ID 
-Provided data wrangling and visualizaiton for BYU-I Data Analysis department. 
+Provided data wrangling, visualizaiton, and analysis services for the BYU-I Data Analysis department. 
 
 ## Service and Work History
 
