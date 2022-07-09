@@ -28,6 +28,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
+`2022 - Present`
+__Data Analyst__, Rexburg, ID 
+Provided data wrangling and visualizaiton for BYU-I Data Analysis department. 
 
 ## Service and Work History
 
