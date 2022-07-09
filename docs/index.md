@@ -5,7 +5,7 @@ title: Luke Russell's Resume
 # Luke Russell
 Data Scientist 
 <div id="webaddress">
-<a href="rus20019@byui.edu">Email</a>
+<a href="rus20019@byui.edu">rus20019@byui.edu</a>
 |
  <a href="https://www.linkedin.com/in/luke-r-b52969b0/">LinkedIn</a>
 | <a href="https://jluke-russell.github.io/russell_luke_resume/">GitHub</a>
